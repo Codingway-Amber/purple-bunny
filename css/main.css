@@ -1,4 +1,7 @@
 /* Place CSS styles here */
 body {
     background-color: rgb(255, 145, 169);
+    background-image:url(./354266249.png);
+    background-size: cover;
+    background-position: center center;
 }
